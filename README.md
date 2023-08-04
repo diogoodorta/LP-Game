@@ -65,8 +65,13 @@ Recompensa: Ao destruir o dispositivo, o jogador completa sua missão e termina 
 Elementos Visuais do jogo
 
 Destroy
+
 Raycast (para a detecção dos inimigos)
+
 Luz pontual e local
+
 Interagir com itens
+
 Objetos geométricos
+
 Movimentação aleatória dos inimigos
