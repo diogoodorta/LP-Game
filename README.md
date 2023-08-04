@@ -2,14 +2,14 @@
 
 Alunos: Diogo Silva e Jefferson Bispo
 
-Proposta do jogo
+Proposta do jogo:
 
 A ideia que pensamos é de um jogo no estilo stealth. O mapa/cena não será muito grande e terá uma iluminação mais escura, desafiando ainda mais o jogador a ser cauteloso com suas ações, por toda a cena colocaremos inimigos andando com lanternas. O objetivo do jogador é conseguir passar por esses inimigos sem ser percebido, pegar um item e destruir o núcleo no final do jogo.
 
 
 
 
-Enredo do jogo
+Enredo do jogo:
 
 A primeira cena ocorre logo depois que nosso personagem consegue fugir da sala, que estava sendo mantido em cativeiro na sede de uma associação Egeo (significado impetuoso) e conseguiu desligar as luzes. E nosso personagem precisa fugir o mais rápido possível, no entanto existem muitos capangas dessa associação nas salas à sua frente, todos eles estão com lanternas e tentando achar o fugitivo, então o protagonista terá que se esforçar ao máximo para conseguir sair desse lugar, mas ele tem apenas uma saída que é destruir toda a associação, já que são muitos capangas para lidar. Sendo assim seu principal objetivo, chegar no núcleo da associação.
 
@@ -62,7 +62,7 @@ Recompensa: Ao destruir o dispositivo, o jogador completa sua missão e termina 
 
 
 
-Elementos Visuais do jogo
+Elementos Visuais do jogo:
 
 Destroy
 
@@ -75,3 +75,7 @@ Interagir com itens
 Objetos geométricos
 
 Movimentação aleatória dos inimigos
+
+Menu
+
+Caixa de Texto
