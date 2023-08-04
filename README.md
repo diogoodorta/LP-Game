@@ -7,9 +7,15 @@ Proposta do jogo
 A ideia que pensamos é de um jogo no estilo stealth. O mapa/cena não será muito grande e terá uma iluminação mais escura, desafiando ainda mais o jogador a ser cauteloso com suas ações, por toda a cena colocaremos inimigos andando com lanternas. O objetivo do jogador é conseguir passar por esses inimigos sem ser percebido, pegar um item e destruir o núcleo no final do jogo.
 
 
+
+
 Enredo do jogo
 
 A primeira cena ocorre logo depois que nosso personagem consegue fugir da sala, que estava sendo mantido em cativeiro na sede de uma associação Egeo (significado impetuoso) e conseguiu desligar as luzes. E nosso personagem precisa fugir o mais rápido possível, no entanto existem muitos capangas dessa associação nas salas à sua frente, todos eles estão com lanternas e tentando achar o fugitivo, então o protagonista terá que se esforçar ao máximo para conseguir sair desse lugar, mas ele tem apenas uma saída que é destruir toda a associação, já que são muitos capangas para lidar. Sendo assim seu principal objetivo, chegar no núcleo da associação.
+
+
+
+
 
 Fase 1: Corredores Sombrios
 
@@ -22,6 +28,7 @@ Desafios:
 - O jogador deve usar o ambiente escuro ao seu favor e objetos do cenário para se esconder e evitar ser detectado pelas lanternas dos capangas.
 
 Recompensa: Ao encontrar a chave, o jogador avança para a próxima fase.
+
 
 
 
@@ -38,6 +45,7 @@ Recompensa: Ao encontrar o mapa, o jogador vai para a próxima fase e está mais
 
 
 
+
 Fase 3: A Câmara do Núcleo
 
 Cenário 3: O jogador enfim chega na Câmara do Núcleo, onde o núcleo está armazenado e protegido. Esta sala é fortemente vigiada, com vários capangas.
@@ -49,6 +57,8 @@ Desafios:
 - Existe algumas armadilhas perto do núcleo, o jogador tem que evitar elas.
 
 Recompensa: Ao destruir o dispositivo, o jogador completa sua missão e termina a fuga da associação Egeo.
+
+
 
 
 
