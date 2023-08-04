@@ -1,4 +1,4 @@
-# LP-Game
+# PROJETO DE DESENVOLVIMENTO DE JOGO - LP
 
 ### GitHub dos itegrantes
 
