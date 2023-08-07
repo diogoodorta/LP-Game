@@ -70,3 +70,23 @@ Recompensa: Ao destruir o dispositivo, o jogador completa sua missão e termina 
 * Caixa de Texto: Presente no menu do jogo e nas ações, como aparecer uma mensagem de conclusão;
 * Prefab: Será usado na aparição dos inimigos;
 * "Random Motion": Mecanismos que colocará os inimigos numa movimentação aleatória.
+
+---
+# APP MOBILE
+
+No aplicativo mobile teremos informações gerais do jogo e os criadores, além das informações gerais, pensamos em criar um quiz relacionado ao jogo. Esse quiz teria cerca de 5 questões.
+As informaçõe gerais são coisas como:
+  * Menu;
+  * Enredo;
+  * Cenas;
+  * Desenvolvedores do jogo.
+Entre outra informações adicionais.
+
+## ELEMENTOS
+
+Utilizaremos elementos básicos como:
+  * Button;
+  * ImageView;
+  * Layouts;
+  * TextView;
+  * Toolbar, utilizariamos na parte superior da tela para controle de abas.
