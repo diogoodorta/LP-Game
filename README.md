@@ -30,7 +30,7 @@ Cenário 1: Logo após o protagonista escapar da sala de cativeiro, ele se vê e
 Objetivo: Nessa fase, o objetivo do jogador é andar pelos corredores, evitar os capangas e encontrar a chave que abre a porta no final do corredor e prosseguir com a sua fuga.
 
 Desafios:
-- Serão bastantes capangas a procura dele.
+- Serão cerca de 9 capangas a procura dele, mas com movimentos aleatórios.
 - O jogador deve usar o ambiente escuro ao seu favor e objetos do cenário para se esconder e evitar ser detectado pelas lanternas dos capangas.
 
 Recompensa: Ao encontrar a chave, o jogador avança para a próxima fase.
@@ -38,9 +38,10 @@ Recompensa: Ao encontrar a chave, o jogador avança para a próxima fase.
 ---
 Fase 2: Laboratório Secreto
 
-Cenário: Depois de encontrar a chave, o jogador vai para laboratório subterrâneo da associação. Esse lugar é cheio de equipamentos científicos e contém corredores estreitos e escuros.
+Cenário: Depois de encontrar a chave, o jogador vai para laboratório subterrâneo da associação. Esse lugar é cheio de equipamentos científicos e contém corredores estreitos e escuros, e pilastras.
 
-Objetivo: O objetivo desta fase é encontrar o mapa da associação, onde vai mostrar o local que está o núcleo para ser destruído. Além disso, ele deve continuar evitando o confronto direto com os capangas, pois são muitos para serem combatidos.
+Objetivo: O objetivo desta fase é encontrar o mapa da associação, onde vai mostrar o local que está o núcleo para ser destruído. Esse mapa estará em uma parede perto da entrada do laboratório, mas não é assim tão facíl, pois para o jogador conseguir sair do laboratório deverá abrir a porta e terá um botão escondido pelo mapa para abrir essa porta
+. Além disso, ele deve continuar evitando o confronto direto com os capangas, pois são 12 para serem combatidos.
 
 Desafios:
 - Tem capangas patrulhando o laboratório, e o jogador deve usar a furtividade para se esconder nas sombras e evitar ser pego.
@@ -50,13 +51,13 @@ Recompensa: Ao encontrar o mapa, o jogador vai para a próxima fase e está mais
 ---
 Fase 3: A Câmara do Núcleo
 
-Cenário 3: O jogador enfim chega na Câmara do Núcleo, onde o núcleo está armazenado e protegido. Esta sala é fortemente vigiada, com vários capangas.
+Cenário 3: O jogador enfim chega na Câmara do Núcleo, onde o núcleo está armazenado e protegido por capangas e armadilhas.
 
-Objetivo: O objetivo é simples, porém difícil, destruir o núcleo e, assim, aniquilar a associação Egeo de uma vez por todas. O jogador deve encontrar uma forma de chegar perto do núcleo e poder interagir com ele e destruí-lo.
+Objetivo: O objetivo é simples, porém difícil, destruir o núcleo e, assim, aniquilar a Associação Egeo de uma vez por todas. O jogador deve encontrar uma forma de chegar perto do núcleo e poder interagir com ele e destruí-lo.
 
 Desafios:
-- O jogador deve evitar a atenção dos capangas enquanto se aproxima do dispositivo.
-- Existe algumas armadilhas perto do núcleo, o jogador tem que evitar elas.
+- O jogador deve evitar a atenção dos capangas, que serão cerca de 5, enquanto se aproxima do dispositivo.
+- Existe 10 armadilhas por volta da câmara do núcleo, o jogador tem que evitar elas.
 
 Recompensa: Ao destruir o dispositivo, o jogador completa sua missão e termina a fuga da associação Egeo.
 
