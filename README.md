@@ -33,21 +33,19 @@ Desafios:
 - Serão cerca de 9 capangas a procura dele, mas com movimentos aleatórios.
 - O jogador deve usar o ambiente escuro ao seu favor e objetos do cenário para se esconder e evitar ser detectado pelas lanternas dos capangas.
 
-Recompensa: Ao encontrar a chave, o jogador avança para a próxima fase.
+Recompensa: Ao encontrar a chave, a porta se abre e o jogador pode ir para a próxima fase.
 
 ---
 Fase 2: Laboratório Secreto
 
-Cenário: Depois de encontrar a chave, o jogador vai para laboratório subterrâneo da associação. Esse lugar é cheio de equipamentos científicos e contém corredores estreitos e escuros, e pilastras.
+Cenário: Depois de encontrar a chave, o jogador vai para o laboratório subterrâneo da associação. Esse lugar é cheio de equipamentos científicos e contém corredores estreitos e escuros, e pilastras.
 
-Objetivo: O objetivo desta fase é encontrar o mapa da associação, onde vai mostrar o local que está o núcleo para ser destruído. Esse mapa estará em uma parede perto da entrada do laboratório, mas não é assim tão facíl, pois para o jogador conseguir sair do laboratório deverá abrir a porta e terá um botão escondido pelo mapa para abrir essa porta
-. Além disso, ele deve continuar evitando o confronto direto com os capangas, pois são 12 para serem combatidos.
+Objetivo: O objetivo desta fase é encontrar o mapa da associação, onde vai mostrar o local que está o núcleo para ser destruído. Esse mapa estará em uma parede perto da entrada do laboratório, mas não é assim tão facíl, pois para o jogador conseguir sair do laboratório deverá abrir a porta e terá um botão escondido pelo mapa para abrir essa porta. Além disso, ele deve continuar evitando o confronto direto com os capangas, pois são 12 para serem combatidos.
 
 Desafios:
 - Tem capangas patrulhando o laboratório, e o jogador deve usar a furtividade para se esconder nas sombras e evitar ser pego.
 
-Recompensa: Ao encontrar o mapa, o jogador vai para a próxima fase e está mais próximo de seu objetivo final.
-
+Recompensa: Ao encontrar o mapa, o jogador terá o caminho definido para a câmara, porém terá que apertar um botão para a porta se abrir e assim chegar no seu destino final.
 ---
 Fase 3: A Câmara do Núcleo
 
